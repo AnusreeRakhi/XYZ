@@ -35,3 +35,5 @@ data.dtypes
 
 #Checking for the null values
 data.isnull().sum()
+
+#Hello There !! 
